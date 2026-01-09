@@ -12,6 +12,6 @@
   <em>What I'm studying now.</em>
 </p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="50" title="C" style="color: #00599C;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="50" title="C" />
 <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" width="50" title="Rust" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50" title="Terraform" />
