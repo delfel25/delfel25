@@ -15,3 +15,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" title="C" style="background: #00599" />
 <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" width="50" title="Rust" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50" title="Terraform" />
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=delfel25&layout=compact&theme=dark&hide_border=true)
