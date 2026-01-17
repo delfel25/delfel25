@@ -3,7 +3,7 @@
 # Hello, Im delfel
 
 **SysAdmin & Developer** from **Kemerovo, Russia**  
-*middle school student passionate about systems programming and infrastructure*
+*student passionate about systems programming and infrastructure*
 
 ---
 
