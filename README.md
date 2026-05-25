@@ -1,13 +1,6 @@
 <div align="center">
-  
-# Hello, Im delfel
 
-**DevOps & Developer** from **Kemerovo, Russia**  
-*student passionate about systems programming and infrastructure*
-
----
-
-###  Tech Stack & Tools
+###  Tech Stack n Tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="50" title="Go" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" title="Linux" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" title="Docker" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" title="Kubernetes" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" title="Bash" />  
 
@@ -16,7 +9,7 @@
 
 ---
 
-###  Currently Learning
+###  Currently learning
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" title="C" style="background: #00599C; padding: 10px; border-radius: 10px;" />
